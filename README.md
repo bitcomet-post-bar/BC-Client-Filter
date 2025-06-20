@@ -7,7 +7,7 @@
 
 官方使用教程：[链接](https://wiki.bitcomet.com/bitcomet_options#client_filter)  
 查看过滤列表：[链接](./Client_Filter.json)  
-订阅用链接：链接  
+订阅用链接：[链接](https://raw.githubusercontent.com/bitcomet-post-bar/BC-Client-Filter/refs/heads/main/Client_Filter.json)  
 
 此功能在比特彗星2.15版本中被引入 用于取代过去高级设置中的旧选项  
 2.15前的旧选项：  
