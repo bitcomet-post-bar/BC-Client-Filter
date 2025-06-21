@@ -5,15 +5,17 @@
 本仓库用于存储适用于比特彗星的客户端过滤规则  
 以便于客户端通过此链接自动更新过滤列表  
 
-官方使用教程：[链接](https://wiki.bitcomet.com/bitcomet_options#client_filter)  
-查看过滤列表：[链接](./Client_Filter.json)  
-订阅用链接：[链接](https://raw.githubusercontent.com/bitcomet-post-bar/BC-Client-Filter/refs/heads/main/Client_Filter.json)  
-
 此功能在比特彗星2.15版本中被引入 用于取代过去高级设置中的旧选项  
-2.15前的旧选项：  
 * `bittorrent.anti_leech_banned_client_names`
 * `bittorrent.anti_leech_banned_peer_ids`
 * `bittorrent.anti_leech_banned_ports`
+
+## 链接
+
+* 官方使用教程：[链接](https://wiki.bitcomet.com/bitcomet_options#client_filter)  
+* 查看过滤列表：[链接](./Client_Filter.json)  
+* 订阅用链接(GitHub)：[链接](https://raw.githubusercontent.com/bitcomet-post-bar/BC-Client-Filter/refs/heads/main/Client_Filter.json)  
+* 订阅用链接(Gitee)：[链接](https://gitee.com/bitcomet-post-bar/BC-Client-Filter/raw/main/Client_Filter.json)  
 
 ---
 
